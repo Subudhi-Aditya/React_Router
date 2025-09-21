@@ -1,0 +1,17 @@
+{
+    "jobs":[
+        {
+            "id":1,
+            "title":"abc",
+            "salary":50000,
+            "location":"London"
+        },
+        {
+            "id":2,
+            "title":"def",
+            "salary":60000,
+            "location":"India"
+        }
+    ]
+}
+
